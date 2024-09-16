@@ -1,0 +1,6 @@
+<Project>
+  <PropertyGroup>
+    <!-- Disable transitive project references to avoid excessive QuickBuild sandboxing in large repos -->
+    <DisableTransitiveProjectReferences>true</DisableTransitiveProjectReferences>
+  </PropertyGroup>
+</Project>

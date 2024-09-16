@@ -1,0 +1,13 @@
+{
+  "msbuild-sdks": {
+    "Microsoft.Build.NoTargets": "3.7.56",
+    "Microsoft.Build.Traversal": "4.1.0",
+    "MSBuild.NpmRestore": "2.0.13",
+    "MSTest.Sdk": "3.5.0"
+  },
+  "sdk": {
+    "version": "9.0.100-rc.1.24452.12",
+    "rollForward": "latestMajor",
+    "allowPrerelease": true
+  }
+}
